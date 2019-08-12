@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-
 * [Part I](part1/README.md)
     * [Writing is nice](README.md)
     * [GitBook is nice](README.md)
