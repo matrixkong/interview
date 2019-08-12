@@ -2,8 +2,7 @@
 
 * [Introduction](README.md)
 * [Array](array/README.md)
-  * [Writing is nice](array/readme.md)
-  * [GitBook is nice](array/readme-1.md)
+  * [Sorting](array/readme.md)
 * [Untitled](untitled/README.md)
   * [Untitled](untitled/untitled.md)
 * [Part II](part-ii/README.md)
