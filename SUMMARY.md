@@ -1,8 +1,12 @@
 # Table of contents
 
-* [Part I](part1/README.md)
-    * [Writing is nice](README.md)
-    * [GitBook is nice](README.md)
-* [Part II](part2/README.md)
-    * [We love feedback](README.md)
-    * [Better tools for authors](README.md)
+* [Introduction](README.md)
+* [Array](array/README.md)
+  * [Writing is nice](array/readme.md)
+  * [GitBook is nice](array/readme-1.md)
+* [Untitled](untitled/README.md)
+  * [Untitled](untitled/untitled.md)
+* [Part II](part-ii/README.md)
+  * [We love feedback](part-ii/readme.md)
+  * [Better tools for authors](part-ii/readme-1.md)
+
