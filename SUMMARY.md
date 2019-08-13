@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Array](array/README.md)
-  * [Sorting](array/readme.md) 
-    * [Sorting](array/readme.md) 
-  * [HashMap](HashMap/readme.md)
+  * [Search](array/array/README.md)
+    * [HashMap](array/array/hashmap.md)
+    * [Two pointers](array/array/array.md)
 * [Untitled](untitled/README.md)
-  * [Untitled](untitled/untitled.md) 
+  * [Untitled](untitled/untitled.md)
 
