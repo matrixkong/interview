@@ -10,6 +10,8 @@
   * [Two pointers](array/twopointers/README.md)
     * [11. Container With Most Water](array/twopointers/11.-container-with-most-water.md)
     * [15. 3Sum](array/twopointers/15.-3sum.md)
+    * [16. 3Sum Closest](array/twopointers/16.-3sum-closest.md)
+    * [18. 4Sum](array/twopointers/18.-4sum.md)
     * [42. Trapping Rain Water](array/twopointers/42.-trapping-rain-water.md)
 * [Stack](stack/README.md)
   * [Monotone Stack单调栈](stack/monotone-stack-dan-tiao-zhan/README.md)
